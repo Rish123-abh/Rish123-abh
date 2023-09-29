@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rish123-abh
 - 👀 I’m interested in ...Artificial intelligence
-- 🌱 I’m currently learning ...Basics in college 1st year
+- 🌱 I’m currently learning ...development and DSA  in college 3rd year 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...agrawalrishabh15@gmail.com
 
